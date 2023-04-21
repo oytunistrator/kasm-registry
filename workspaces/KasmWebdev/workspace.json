@@ -1,6 +1,6 @@
 {
   "description": "Web Development Workspace for Kasm",
-  "docker_registry": "https://index.docker.io/v1/",
+  "docker_registry": "https://oytunistrator.github.io/kasm-registry/1.0",
   "image_src": "icon.png",
   "name": "oytunistrator/kasm-web-dev:1.0",
   "run_config": {
