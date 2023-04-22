@@ -7,3 +7,5 @@
 </h1>
 
 <p align="center">Oytunistrator Kasm Repository</p>
+
+<a href="https://oytunistrator.github.io/kasm-registry">Kasm Directory</a>
