@@ -2,10 +2,10 @@
   <br>
   <img width="150" src="https://avatars.githubusercontent.com/u/3594944">
   <br>
-  Kasm Oytunistrator Directory
+  <a href="https://oytunistrator.github.io/kasm-registry">Kasm Oytunistrator Directory</a>
   <br>
 </h1>
 
 <p align="center">Oytunistrator Kasm Repository</p>
 
-<a href="https://oytunistrator.github.io/kasm-registry">Kasm Directory</a>
+<p align="center"><a href="https://oytunistrator.github.io/kasm-registry">Kasm Directory</a></p>
