@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'Kasm Oytunistrator Directory',
     description: 'Kasm Oytunistrator Directory.',
-    icon: 'https://oytunistrator.github.io/kasm-registry/1.0//img/logo.svg',
+    icon: 'https://oytunistrator.github.io/kasm-registry/1.0/logo.png',
     listUrl: 'https://oytunistrator.github.io/kasm-registry/1.0',
     contactUrl: 'https://github.com/oytunistrator/kasm-registry',
   },

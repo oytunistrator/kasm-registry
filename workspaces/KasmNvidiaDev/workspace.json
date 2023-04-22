@@ -1,0 +1,29 @@
+{
+  "description": "Nvidia Development Workspace for Kasm",
+  "docker_registry": "https://oytunistrator.github.io/kasm-registry/1.0",
+  "image_src": "icon.png",
+  "name": "oytunistrator/kasm-nvidia-dev:1.0",
+  "run_config": {
+    "hostname": "kasm"
+  },
+  "exec_config": {
+    "go": {
+      "cmd": "bash -c '/dockerstartup/custom_startup.sh --go --url \"$KASM_URL\"'"
+    },
+    "assign": {
+      "cmd": "bash -c '/dockerstartup/custom_startup.sh --assign --url \"$KASM_URL\"'"
+    }
+  },
+  "categories": [
+    "Development"
+  ],
+  "friendly_name": "Nvidia Development",
+  "architecture": [
+    "amd64",
+    "arm64"
+  ],
+  "compatibility": [
+    "1.13.x"
+  ],
+  "uncompressed_size_mb": 2170
+}
